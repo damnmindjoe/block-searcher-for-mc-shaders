@@ -1,5 +1,6 @@
 A utillity script to find unique minecraft block id from mods using localization files
-  How to use:
+
+How to use:
 1) Look for en_us.json(or any other local) file on mod's github it's usually placed here src/main/resources/assets/mod name/lang/en_us.json
 2) Donwload en_us.json
 3) Open star.bat
